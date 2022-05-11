@@ -21,7 +21,7 @@
 ### ❔ Development on Hiatus
 | Name | Descripions  |
 | ------------- | ------------- |
-| [RidPT](https://github.com/Rhilip/RidPT) | Another Private Torrent framework Project. Built on MixPHP and Zui. |
+|   [RidPT](https://github.com/Rhilip/RidPT)   |   Another Private Torrent framework Project. Built on MixPHP and Zui.   |
 
 ### 💀 Development Ceased
 | Name | Descripions  |
